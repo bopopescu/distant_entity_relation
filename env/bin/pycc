@@ -1,0 +1,3 @@
+#!/home/EEE.btp.2017/env/bin/python2
+from numba.pycc import main
+main()
